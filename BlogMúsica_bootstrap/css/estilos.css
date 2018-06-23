@@ -1,0 +1,26 @@
+.blog-body{
+    background-color: lightgray;
+}
+.logo{
+    padding: 20px;
+    width: 25%;
+}
+.color-menu{
+    background-color: grey;
+    margin: 0px;
+    padding: 20px;
+}
+.img-social{
+    width: 4%;
+    display: flex;
+    float: right;
+    padding: 1px;
+}
+.boton-menu{
+    display: flex;
+    float: center;
+    padding: 20px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
