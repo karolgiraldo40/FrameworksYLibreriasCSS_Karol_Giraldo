@@ -1,0 +1,12 @@
+.fondo{
+    background-image: url(../img/fondo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.seccion-color{
+    background: lightgray;
+    opacity: 0.95%;
+    margin: 0px;
+}
