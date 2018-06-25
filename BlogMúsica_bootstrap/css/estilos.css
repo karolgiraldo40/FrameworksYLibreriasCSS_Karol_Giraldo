@@ -1,5 +1,6 @@
 .blog-body{
     background-color: lightgray;
+    display: 
 }
 .logo{
     padding: 20px;
@@ -17,10 +18,38 @@
     padding: 1px;
 }
 .boton-menu{
-    display: flex;
     float: center;
     padding: 20px;
     text-align: center;
     align-content: center;
     align-items: center;
+}
+.foto-size{
+    margin-top: 60px;
+}
+h2{
+    color: lightcoral
+}
+p{
+    color: gray;
+}
+.icono{
+    width: 18%;
+    padding: 10px;
+    float: left;
+}
+.buscar-color{
+    float: center;
+    background-color: lightcoral;
+    padding: 70px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.parrafo{
+    float: right;
+    margin-left: 20px;
+}
+.foto-2{
+    margin-top: 40px;
+    float: left;
 }

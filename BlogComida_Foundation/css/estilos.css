@@ -1,0 +1,40 @@
+.blog-body{
+    background-image: url(../img/fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+hr{
+    height: 1px;
+    background-color: gray;
+}
+.fondo-size{
+    margin: opx;
+    padding: 20px;
+    background: #142032;
+    color: white;
+    opacity: 0.90;
+}
+.columna-size1{
+    margin: 0px;
+    width: 40%;
+    float: left;
+}
+.columna-size2{
+    margin: 0px;
+    width: 60%;
+    float: right;
+}
+.imagenes{
+    width: 30%;
+    margin: 5px;
+}
+.brownie{
+    width: 80%;
+    float: center;
+}
+.fondo{
+    background: darkgray;
+    color: white;
+}
