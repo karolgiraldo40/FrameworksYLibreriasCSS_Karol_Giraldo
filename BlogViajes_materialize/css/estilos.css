@@ -5,8 +5,16 @@
     background-size: cover;
     background-attachment: fixed;
 }
+.encabezado{
+    padding: 20px;
+}
 .seccion-color{
     background: lightgray;
-    opacity: 0.95%;
     margin: 0px;
+    padding: 20px;
+}
+.centrada{
+    text-align: center;
+    align-content: center;
+    float: center;
 }
