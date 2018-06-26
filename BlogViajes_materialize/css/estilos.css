@@ -5,6 +5,7 @@
     background-size: cover;
     background-attachment: fixed;
 }
+
 .encabezado{
     padding: 20px;
 }
@@ -12,9 +13,4 @@
     background: lightgray;
     margin: 0px;
     padding: 20px;
-}
-.centrada{
-    text-align: center;
-    align-content: center;
-    float: center;
 }
